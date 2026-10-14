@@ -1,0 +1,6 @@
+@ProfanityFilter_HostAddress = http://localhost:5062
+
+GET {{ProfanityFilter_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

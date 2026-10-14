@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="../ProfanityFilterTest/ProfanityFilterTest.csproj" Id="4decbda0-9218-4f89-a653-cba255e14d9b" />
+  <Project Path="ProfanityFilter.csproj" />
+</Solution>
